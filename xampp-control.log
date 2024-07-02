@@ -1,0 +1,75 @@
+19:04:30  [main] 	Initializing Control Panel
+19:04:30  [main] 	Windows Version:  Home  64-bit
+19:04:30  [main] 	XAMPP Version: 8.2.12
+19:04:30  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:04:30  [main] 	You are not running with administrator rights! This will work for
+19:04:30  [main] 	most application stuff but whenever you do something with services
+19:04:30  [main] 	there will be a security dialogue or things will break! So think 
+19:04:30  [main] 	about running this application with administrator rights!
+19:04:30  [main] 	XAMPP Installation Directory: "d:\proxampp\"
+19:04:30  [main] 	Checking for prerequisites
+19:04:32  [main] 	All prerequisites found
+19:04:32  [main] 	Initializing Modules
+19:04:32  [main] 	Starting Check-Timer
+19:04:32  [main] 	Control Panel Ready
+19:04:34  [Apache] 	Attempting to start Apache app...
+19:04:34  [Apache] 	Status change detected: running
+19:04:35  [mysql] 	Attempting to start MySQL app...
+19:04:36  [mysql] 	Status change detected: running
+19:04:36  [mysql] 	Status change detected: stopped
+19:04:36  [mysql] 	Error: MySQL shutdown unexpectedly.
+19:04:36  [mysql] 	This may be due to a blocked port, missing dependencies, 
+19:04:36  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+19:04:36  [mysql] 	Press the Logs button to view error logs and check
+19:04:36  [mysql] 	the Windows Event Viewer for more clues
+19:04:36  [mysql] 	If you need more help, copy and post this
+19:04:36  [mysql] 	entire log window on the forums
+19:21:41  [mysql] 	Status change detected: running
+01:17:03  [main] 	Deinitializing Modules
+01:17:03  [main] 	Deinitializing Control Panel
+
+11:54:14  [main] 	Initializing Control Panel
+11:54:14  [main] 	Windows Version:  Home  64-bit
+11:54:14  [main] 	XAMPP Version: 8.2.12
+11:54:14  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:54:14  [main] 	You are not running with administrator rights! This will work for
+11:54:14  [main] 	most application stuff but whenever you do something with services
+11:54:14  [main] 	there will be a security dialogue or things will break! So think 
+11:54:14  [main] 	about running this application with administrator rights!
+11:54:14  [main] 	XAMPP Installation Directory: "d:\proxampp\"
+11:54:14  [main] 	Checking for prerequisites
+11:54:16  [main] 	All prerequisites found
+11:54:16  [main] 	Initializing Modules
+11:54:16  [main] 	Starting Check-Timer
+11:54:16  [main] 	Control Panel Ready
+11:54:19  [Apache] 	Status change detected: running
+11:54:21  [mysql] 	Status change detected: running
+13:01:37  [main] 	Deinitializing Modules
+13:01:37  [main] 	Deinitializing Control Panel
+
+20:46:47  [main] 	Initializing Control Panel
+20:46:47  [main] 	Windows Version:  Home  64-bit
+20:46:47  [main] 	XAMPP Version: 8.2.12
+20:46:47  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+20:46:47  [main] 	You are not running with administrator rights! This will work for
+20:46:47  [main] 	most application stuff but whenever you do something with services
+20:46:47  [main] 	there will be a security dialogue or things will break! So think 
+20:46:47  [main] 	about running this application with administrator rights!
+20:46:47  [main] 	XAMPP Installation Directory: "d:\proxampp\"
+20:46:47  [main] 	Checking for prerequisites
+20:46:47  [main] 	All prerequisites found
+20:46:47  [main] 	Initializing Modules
+20:46:47  [Apache] 	XAMPP Apache is already running on port 80
+20:46:47  [Apache] 	XAMPP Apache is already running on port 443
+20:46:47  [main] 	Starting Check-Timer
+20:46:47  [main] 	Control Panel Ready
+20:46:48  [Apache] 	Attempting to stop Apache (PID: 15576)
+20:46:48  [Apache] 	Attempting to stop Apache (PID: 4504)
+20:46:49  [Apache] 	Status change detected: stopped
+20:46:50  [Apache] 	Attempting to start Apache app...
+20:46:50  [Apache] 	Status change detected: running
+20:46:51  [mysql] 	Attempting to start MySQL app...
+20:46:51  [mysql] 	Status change detected: running
+23:13:29  [main] 	Deinitializing Modules
+23:13:29  [main] 	Deinitializing Control Panel
+
